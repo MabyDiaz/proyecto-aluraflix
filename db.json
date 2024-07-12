@@ -1,0 +1,76 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "title": "Cuándo usar let, var y const?",
+      "category": "Frontend",
+      "image": "frontend1.png",
+      "video": "https://youtu.be/PztCEdIJITY?si=5CI4UuOYSQPZ5koG",
+      "description": "Description of Video 1"
+    },
+    {
+      "id": "2",
+      "title": "¿Qué es Javascript?",
+      "category": "Frontend",
+      "image": "frontend2.png",
+      "video": "https://youtu.be/GJfOSoaXk4s?si=LHuP_qeYoGj6ImUs",
+      "description": "Description of Video 2"
+    },
+    {
+      "id": "3",
+      "title": "Equipo Front End",
+      "category": "Frontend",
+      "image": "frontend3.png",
+      "video": "https://youtu.be/rpvrLaBQwgg?si=O1XWwgA4HX4jbNr4",
+      "description": "Description of Video 3"
+    },
+    {
+      "id": "4",
+      "title": "Spring Framework",
+      "category": "Backend",
+      "image": "backend1.png",
+      "video": "https://youtu.be/t-iqt1b2qqk?si=NzYiCQN_5xwiskwZ",
+      "description": "Description of Video 4"
+    },
+    {
+      "id": "5",
+      "title": "¿Qué es SQL y NOSQL?",
+      "category": "Backend",
+      "image": "backend2.png",
+      "video": "https://youtu.be/cLLKVd5CNLc?si=vrYqeMVcUz8uFIH5",
+      "description": "Description of Video 5"
+    },
+    {
+      "id": "6",
+      "title": "Simplificando tu código en Java Conoce los ENUM",
+      "category": "Backend",
+      "image": "backend3.png",
+      "video": "https://youtu.be/EoPvlE85XAQ?si=xIcRdy5EmkvWL6I7",
+      "description": "Description of Video 6"
+    },
+    {
+      "id": "7",
+      "title": "¿Qué son las Soft Skills?",
+      "category": "Innovación y Gestión",
+      "image": "iyg1.png",
+      "video": "https://youtu.be/vhwspfvI52k?si=XNJUZqs6GbnaalEW",
+      "description": "Description of Video 7"
+    },
+    {
+      "id": "8",
+      "title": "Las 7 SoftSkills más deseadas",
+      "category": "Innovación y Gestión",
+      "image": "iyg2.png",
+      "video": "https://youtu.be/YhR7Zp8NUzE?si=288gP8cjOCuPfD92",
+      "description": "Description of Video 8"
+    },
+    {
+      "id": "9",
+      "title": "Metodologías Ágiles",
+      "category": "Innovación y Gestión",
+      "image": "iyg3.png",
+      "video": "https://youtu.be/6N3OkLCfK-0?si=dpkc6LfYmQ27Lesl",
+      "description": "Description of Video 9"
+    }
+  ]
+}

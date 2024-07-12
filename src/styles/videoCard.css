@@ -1,0 +1,70 @@
+.video-card {
+  width: 429px;
+  height: 320px;
+  border-radius: 20px;
+  padding: 16px;
+  text-align: center;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.video-card img {
+  width: 429.19px;
+  height: 260.85px;
+  border-radius: 20px 20px 0 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.video-buttons {
+  width: 429px;
+  height: 59px;
+  background-color: #000000;
+  border-radius: 0 0 20px 20px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.video-btn-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  position: relative;
+}
+
+.video-btn-container .delete-img,
+.video-btn-container .edit-img {
+  width: 25.43px;
+  height: 28px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.edit-button,
+.delete-button {
+  display: flex;
+  align-items: center;
+  background-color: transparent;
+  color: white;
+  border: none;
+  padding: 5px 0px 5px 40px;
+  cursor: pointer;
+  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.video-btn-container:hover {
+  opacity: 0.8;
+}
